@@ -1,2 +1,6 @@
 node_modules
 package-lock.json
+my_file.csv
+.env
+docker-compose.yml
+prisma
